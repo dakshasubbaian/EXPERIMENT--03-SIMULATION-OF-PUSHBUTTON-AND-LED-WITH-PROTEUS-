@@ -1,7 +1,7 @@
-## Name : Daksha Subbaian
-## Register No. : 212223230036
-## Department : Artificial Intelligence and Data Science
-## Date of experiment : 06-09-2024
+### Name : Daksha Subbaian
+### Register No. : 212223230036
+### Department : Artificial Intelligence and Data Science
+### Date of experiment : 06-09-2024
 
 
 # EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED INTERFACE WITH ARM CONTROLLER AND PROTEUS 
